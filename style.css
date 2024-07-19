@@ -86,4 +86,10 @@ p {
     color: var(--font-color);
     border: var(--back-color4);
     font-weight: 800;
+    animation: fade-in 1s ease-in-out 0s infinite both;
+}
+
+@keyframes fade-in {
+    from {opacity: 0;}
+    to {opacity: 100%;}
 }
