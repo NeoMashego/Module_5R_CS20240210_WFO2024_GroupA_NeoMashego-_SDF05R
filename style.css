@@ -101,3 +101,10 @@ p {
     font-weight: 800;
     box-shadow: 5px 10px var(--back-color2), -5px -10px var(--back-color2);
 }
+
+.btn-3:hover {
+    background: var(--back-color6);
+    color: var(--font-color);
+    border: var(--back-color6);
+    font-weight: 800;
+}
