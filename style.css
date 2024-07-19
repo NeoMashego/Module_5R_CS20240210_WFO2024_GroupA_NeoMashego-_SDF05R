@@ -82,16 +82,14 @@ p {
 }
 
 .btn-1:hover {
-    background: var(--back-color4);
-    color: var(--font-color);
     border: var(--back-color4);
     font-weight: 800;
-    animation: fade-in 1s ease-in-out 0s infinite both;
+    animation: fade-in 2s ease-in 0s infinite alternate both;;
 }
 
 @keyframes fade-in {
-    from {opacity: 0;}
-    to {opacity: 100%;}
+    from{background: var(--back-color3); color: var(--font-color); font-weight: 500;}
+    to{background: var(--back-color6); color: var(--font-color); font-weight: 800;}
 }
 
 .btn-2:hover {
