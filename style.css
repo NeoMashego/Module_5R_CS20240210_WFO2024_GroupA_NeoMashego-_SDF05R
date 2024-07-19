@@ -93,3 +93,11 @@ p {
     from {opacity: 0;}
     to {opacity: 100%;}
 }
+
+.btn-2:hover {
+    background: var(--back-color5);
+    color: var(--font-color);
+    border: var(--back-color5);
+    font-weight: 800;
+    box-shadow: 5px 10px var(--back-color2), -5px -10px var(--back-color2);
+}
