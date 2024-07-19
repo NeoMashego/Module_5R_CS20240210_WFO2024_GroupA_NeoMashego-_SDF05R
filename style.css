@@ -55,10 +55,13 @@ p {
 
 :root {
     --font-color: #ffffff;
+    --font-color2: #000;
+
     --back-color1: #03045e;
     --back-color2: #023e8a;
     --back-color3: #0077b6;
     --back-color4: #0096c7;
+    --back-color45: #a2d2ff;
     --back-color5: #00b4d8;
     --back-color6: #48cae4;
 }
