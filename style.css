@@ -68,3 +68,15 @@ p {
     border: var(--back-color1);
     color: var(--font-color);
 }
+
+.btn-2 {
+    background: var(--back-color2);
+    border: var(--back-color2);
+    color: var(--font-color);
+}
+
+.btn-3 {
+    background: var(--back-color3);
+    border: var(--back-color3);
+    color: var(--font-color);
+}
