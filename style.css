@@ -52,3 +52,13 @@ p {
 }
 
 /* Add your custom styles for btn-1, btn-2, and btn-3 */
+
+:root {
+    --font-color: #ffffff;
+    --back-color1: #03045e;
+    --back-color2: #023e8a;
+    --back-color3: #0077b6;
+    --back-color4: #0096c7;
+    --back-color5: #00b4d8;
+    --back-color6: #48cae4;
+}
