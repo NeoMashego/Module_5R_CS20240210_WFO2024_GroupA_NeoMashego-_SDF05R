@@ -104,8 +104,8 @@ p {
 }
 
 .btn-3:hover {
-    background: var(--back-color6);
-    color: var(--font-color);
-    border: var(--back-color6);
-    font-weight: 800;
+    background: var(--back-color45);
+    color: var(--font-color2);
+    border: 6px solid var(--back-color4);
+    font-weight: 700;
 }
