@@ -104,8 +104,8 @@ p {
 }
 
 .btn-3:hover {
-    background: var(--back-color45);
+    background: linear-gradient(var(--back-color1), var(--back-color2), var(--back-color3), var(--back-color5), 
+    var(--back-color6), var(--font-color));
     color: var(--font-color2);
-    border: 6px solid var(--back-color4);
     font-weight: 700;
 }
